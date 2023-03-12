@@ -1,0 +1,11 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2430;
+  color: #ffad66;
+  font-family: "montserrat";
+  font-size: 50px;
+}
